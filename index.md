@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## WELCOME TO THE GOSPEL SCHEME PAGE
 
-You can use the [editor on GitHub](https://github.com/Newlife0246/Newlife0246.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There is no confusion as to what constitute the gospel or the word of God but the scheme of the gospel is an issue because people have wild theology despite the simplicity that is in christ jesus.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are three gospel schemes concerning the truth of the word of God. 
 
-### Markdown
+### THE SCHEMES
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+there is the gospel according to God
 
 ```markdown
-Syntax highlighted code block
+The gospel of christ 
 
 # Header 1
 ## Header 2
